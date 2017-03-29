@@ -4,12 +4,12 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 
 ## The rules
 1. [Put people first](#put-people-first)
-1. Design for everyone
+1. [Design for everyone](#design-for-everyone)
 1. Follow the Australian Government’s Digital Service Standard
-1. Adhere to WCAG
+1. [Adhere to WCAG](#adhere-to-wcag)
 1. Know the content types
-1. Write in plain English
-1. Make sure PDFs are accessible
+1. [Write in plain English](#write-in-plain-english)
+1. [Make sure PDFs are accessible](#make-sure-pdfs-are-accessible)
 1. Provide alternative formats
 1. Provide language translation support
 1. Allow for assistive methods
@@ -33,7 +33,9 @@ Key questions to ask
 
 ### Design for everyone
 
-Accessible design is good design. Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the all people, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
+Accessible design is good design. 
+
+Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the all people, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
 
 
 ### Adhere to WCAG
