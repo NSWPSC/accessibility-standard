@@ -1,7 +1,8 @@
 # Digital Accessibility Standard
 
-The Digital Accessibility Standard is a set of rules about our approach digital accessibility.
+The Digital Accessibility Standard is a set of rules about our approach digital accessibility. Following the rule means we can make sure that everyone is included when we provide information and services in digital formats. It helps us ensure that our products meet a wide range of people’s needs when designing, developing and delivering digital projects.
 
+## The rules
 1. Put people first
 1. Design for everyone
 1. Follow the Australian Government’s Digital Service Standard
