@@ -1,4 +1,4 @@
-#Digital Accessibility Standard
+# Digital Accessibility Standard
 
 The Digital Accessibility Standard is a set of rules about our approach digital accessibility.
 
