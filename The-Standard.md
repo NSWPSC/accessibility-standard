@@ -10,7 +10,8 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 1. Know the content types
 1. [Write in plain English](#write-in-plain-english)
 1. [Make sure PDFs are accessible](#make-sure-pdfs-are-accessible)
-1. Provide alternative formats
+1. Provide documents in open formats
+1. Provide alternative formats for multimedia
 1. Provide language translation support
 1. Allow for assistive methods
 1. Test, validate and verify
@@ -128,8 +129,12 @@ Every PDF that you publish online or send electronically should be accessible. H
 
 You can find out how to check the accessibility of a PDF in the guidance [Accessible PDFs - How to publish on GOV.UK](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs)
 
+#### Avoid publishing as PDF
+Don’t publish your document as a PDF if it is four pages or shorter. Instead publish the content as a web page. 
 
-#### Create an accessible PDF
+Documents over four pages can be published as an accessible PDF with an accompanying alternative format, such as HTML or an open document format. 
+
+#### Create an accessible document in PDF/A format
 
 An accessible PDF has, at minimum:
 - the correct heading structure
@@ -223,6 +228,86 @@ Use ‘File’ then ‘Preference’ then ‘Accessibility’ to set a high cont
 
 ###### Display document title
 Display the document title instead of the file name. Go to ‘File’ then ‘Properties’ then ‘Initial view’ and select Document title from the Show drop down box.
+
+### Provide documents in open formats
+
+Citizens, businesses and government officials need to be able to access and read government documents on their own devices. Documents in this context include word processed texts, spreadsheets and presentations.
+
+It's important to remember that:
+- not everyone is using the latest version of the software that you might be using in your work, or they may not own proprietary software like Microsoft Office.
+
+#### Documents designed to be viewed
+Documents designed to be viewed are meant to be read, rather than edited or interacted with.
+
+These documents must be available in one or both of the following formats:
+
+- HTML5 (the language web pages are built with), eg HTML publications
+- PDF/A that has been formatted to be accessible
+
+#### Documents designed to be edited
+Documents designed to be edited (eg statistics, spreadsheets) are meant to be interacted with, or used for collaborative working, not just read.
+
+This type of document must be published in:
+
+- .odt for text documents
+- .ods for spreadsheets
+- .odp for presentations
+
+#### Data
+Datasets are files designed to be machine readable by external software.
+
+If you need to publish structured data like tables or spreadsheets, you should use:
+
+- .ods - an open format that can be used in free, open or proprietary licensed software
+- .csv - a machine-readable format which enables users to process the data it contains
+
+Avoid publishing statistical tables or datasets within a PDF or other format designed mainly for text. This is because it makes it difficult for visually impaired users who rely on screenreaders. Instead, try to provide them separately using .ods or .csv.
+
+### Provide alternative formats
+Allowing flexibility and control to rest with the user is at the heart of providing alternative formats.
+
+Alternative types of content should be simultaneously published wherever possible. As a last resort, you must offer to provide these upon request.
+
+It’s important to remember that: 
+- not everyone uses digital content in the same way. 
+- some people use assistive technology, such as screen readers, mobile apps and magnifying software to help them access digital content. There are vast differences in the way these kinds of tools operate and we can’t be sure that every product we produce will be used the same way with each tool. For this reason, alternative formats are essential.
+
+Similarly, some people with sensory disability require alternative formats that meet their needs. For example, some people require Braille versions of text, audio files that read content aloud, or text descriptions of audio content.
+
+And some people with a range of disabilities, learning needs and cognitive conditions such as dyslexia require content in a simple, clear format like plain English or Easy Read. Alternative fonts and large text sizes can be incredibly helpful in some situations.
+
+
+#### Video
+Videos must be published with captions, and where appropriate audio descriptions and Auslan should be used. Use plain english in your videos. It is a good idea to consider accessibility when writing your script.
+
+Captions are the text version of speech and other audible content that appears on videos. Captions:
+- are used to communicate with people who are Deaf or hearing impaired 
+- help people access your content in noisy environments 
+- and assist in teaching or training others who are learning English.
+
+Audio description is an audible narration of visual representations such as television programs, films and live performances. During gaps of dialogue it describes visual elements such as scenes, settings, actions and costumes to the viewer. Audio description is useful to people who are blind or who have low vision and people who have print, learning and/or physical disabilities.
+
+Auslan is the Australian sign language and it is the primary or preferred language for many people in the Australian Deaf community. When producing videos for emergency communication, such as bushfires or floods, an Auslan interpreter must be present on screen for the entire duration of the video. For other videos, where possible, include an Auslan interpreter.
+
+#### Alternative formats for documents
+Documents over four pages can be published as an accessible PDF with an accompanying alternative format, such as HTML or an open document format. 
+
+An alternative format is required because:
+
+- Not all versions of all screen readers read out PDFs consistently.
+- PDF does not currently have accessibility support on mobile devices.
+
+Never publish scanned PDFs unless an alternative is provided.
+
+The best starting point for an accessible document is the template. If a template is accessible, the process of ensuring that the final document is accessible becomes easier. Use any accessible templates your organisation providers to ensure your document avoids introducing accessibility problems.
+
+By following steps to produce an accessible Word documents if your PDF originated from a Microsoft Word document.
+
+Follow the requirements for making sure PDFs are accessible whenever they are used.
+
+
+#### Languages other than English
+A benefit of some types of alternative formats is support for including content in languages other than English. 
 
 ---
 
