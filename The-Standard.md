@@ -7,7 +7,7 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 1. [Design for everyone](#design-for-everyone)
 1. Follow the Australian Government’s Digital Service Standard
 1. [Adhere to WCAG](#adhere-to-wcag)
-1. Know the content types
+1. [Know the content types]
 1. [Write in plain English](#write-in-plain-english)
 1. [Make sure PDFs are accessible](#make-sure-pdfs-are-accessible)
 1. Provide documents in open formats
@@ -60,6 +60,62 @@ The [‘How to meet WCAG’](https://www.w3.org/WAI/WCAG20/quickref) quick refer
 To know that you adhere to WCAG you neeed to test, validate and verify. When you find areas where you don't adher you need to go through a process of reporting, fixing and reviewing.
 
 ### Know the content types
+
+At FACS, there are a range of content types. Knowing these types allows us to apply usability and accessibility for all of our audiences. It also helps us understand when we should apply various accessibility techniques.
+
+For example, every single PDF that we publish must be accessible. However, you don’t always need to provide a plain English version of every document or web page – especially if you are publishing an academic text. However, plain English summaries are helpful.
+
+Knowing your content types goes hand in hand with knowing your audience. Then you can work toward providing content that meets your user’s needs.
+
+#### What are the content types?
+##### Apps
+When designing and developing apps for mobile or desktop use, all accessibility requirements apply. The W3C article on mobile accessibility is a good starting point. Include all the criteria in the Standard when designing and developing content for apps, including putting people first, designing for everyone, adhering to WCAG, testing with users and writing in plain English.
+
+##### Documents
+Documents include everything from legislation to fact sheets. They can generally be divided into documents for viewing and documents for editing.
+
+All documents that you communicate digitally must be accessible. This means any time they're to be published on a public website, or on an internal web system like an intranet. You should also make sure any document you're sharing widely via email or through other digital channels is accessible.
+
+HTML is the most accessible format and should be used wherever possible.
+
+Alternative formats should be provided when publishing a document as a PDF, because of known issues on mobile devices. Never publish scanned PDFs unless an alternative is provided.
+
+All PDFs should be tagged and have accompanying short summaries.
+
+The best starting point for an accessible document is the template. If a template is accessible, the process of ensuring that the final document is accessible becomes easier.
+
+Most documents should be written in plain English, and long documents should be broken down if possible. However, each business area will need to make an informed decision about writing academic, legal or research material in plain English. Evaluation of the needs of the audience will be critical in each instance. Plain English summaries toward the top of a web page are a great way to help a reader decide if they will access the full content of a longer document or article. Glossaries or word lists also help.
+
+Some fact sheets or other external communications might require translation into a range of languages, or an Easy Read version. Please see providing alternative formats for more information.
+
+##### Forms
+Forms should be clear and easy to use. You must consider the way the form will be used and the language that you use to explain the steps in completing the form.
+
+The accessibility of the form must be taken into consideration at a technical level and you should follow the WCAG techniques for creating accessible forms. This article from Web AIM has some great advice on how to do this.
+
+###### Graphics and data
+Graphics should be clear and easy to understand. Check that the correct colour contrast ratio has been used. And remember that alternative text must be provided.
+
+When writing alternative text for online content, you need to keep your description brief – preferably under 100 characters. However, if you have a complex diagram or graph that has multiple concepts, you must describe these. If 100 characters is not enough to describe the content effectively, a text description of the content can be provided in a link. When writing alternative content in a program like Microsoft Word or Adobe InDesign, you can provide longer descriptions.
+
+##### Presentations
+You can make your presentations accessible by following the guidance for colour contrast and the provision of alternative text on images, graphs and data. If you wish to publish your presentation online, a good way to do this is to provide an accessible PDF, as well as the PowerPoint file if possible.
+
+##### Research
+Research reports and papers, evaluation studies and literature reviews may be long and unwieldy for non-specialised readers. When publishing this kind of material on our intranet or public-facing websites, it is important to provide a plain English summary describing what the content is about in a clear and succinct way. Readers can then decide if they would like to read the document. The document itself should be published in an accessible format, with an alternative to PDF provided.
+
+##### Social media
+Unfortunately, the accessibility of third-party social media platforms is out of our hands. However, we can take steps to make sure that our use of social media considers the needs of our audience. For example, we can ensure that all of the videos we publish and share are captioned.
+
+We can also make sure that all of the documents we share publically are accessible – that means that if someone shares a file, or a link to a file, we know that the widest range of people will be able to use it.
+
+When people follow links to our websites, we can make sure that the web pages are accessible and that alternative formats are available.
+
+##### Web pages
+Web page content should be presented in clear, easy to understand text that is broken up into digestible chunks with good, descriptive headings. Providing plain English summaries about complex information is a helpful way to connect with your website visitor and let them decide if they’d like to read more.
+
+##### Videos
+Videos are a great way to communicate but they are not accessible to everyone if alternatives – such as captions – are not provided. At FACS, we provide captioning as a minimum, and audio description and Auslan translations in some circumstances. Find out more about the criteria for providing alternative formats here.
 
 ### Write in plain English
 Plain English is the difference between this:
