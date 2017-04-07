@@ -20,7 +20,7 @@ But we don’t just do this because we have to. We do this work because:
 - We’re becoming experts in accessibility and we’re passionate about achieving best-practice standards in this realm.
 
 ## Who should use the Standard?
-The Digital Accessibility Standard is for everyone involved in producing work that's published digital.
+The Digital Accessibility Standard is for everyone involved in producing work that's published digitally.
 
 No matter what your role, the Standard is designed to help you make fast decisions about how you can create and share content while making sure it’s inclusive and accessible.
 
