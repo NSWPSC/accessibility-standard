@@ -5,17 +5,17 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 ## The rules
 1. [Put people first](#put-people-first)
 1. [Design for everyone](#design-for-everyone)
-1. Follow the Australian Government’s Digital Service Standard
+1. [Follow the Australian Government’s Digital Service Standard]()
 1. [Adhere to WCAG](#adhere-to-wcag)
-1. [Know the content types]
+1. [Know the content types](#know-the-content-types)
 1. [Write in plain English](#write-in-plain-english)
 1. [Make sure PDFs are accessible](#make-sure-pdfs-are-accessible)
-1. Provide documents in open formats
-1. Provide alternative formats for multimedia
-1. Provide language translation support
-1. Allow for assistive methods
-1. Test, validate and verify
-1. Report, fix and review
+1. [Provide documents in open formats]()
+1. [Provide alternative formats for multimedia]()
+1. [Provide language translation support]
+1. [Allow for assistive methods]
+1. [Test, validate and verify]
+1. [Report, fix and review]
 
 ### Put people first
 
@@ -38,6 +38,19 @@ Accessible design is good design.
 
 Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the all people, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
 
+### Follow the Australian Government’s Digital Service Standard
+A digital service standard is a list of criteria that must be met when providing digital services. It covers both information and transactional services.
+
+The Australian Government’s Digital Service Standard outlines broad usability and accessibility principles for websites and digital services developed at a national level.
+
+It provides principles to build good digital services, and will help you build great websites, intranets, user interfaces such as forms and online services, and mobile apps that meet the standard. The design and delivery processes it recommends and the Digital Accessibility Standard work hand in hand.
+
+This standard draws upon, extends and implements elements of the following resources:
+- [The Federal Digital Transformation Agency's Digital Service Standard](https://dta.gov.au/standard/)
+- [The United Kingdom Government Digital Service's Digital Service Standard](https://gov.uk/service-manual/service-standard)
+- [The NSW Department of Family and Communication Services' Digital Accessibility Standard](https://www.facs.nsw.gov.au/site_information/accessibility/digital-accessibility-standard)
+
+These standards are a great source of ideas and learning. They're actively being updated and so it's worth drawing upon them for their guidance on best practice in digital service design more generally.
 
 ### Adhere to WCAG
 The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/wcag.php) are used widely around the world as a benchmark for web accessibility.
@@ -362,8 +375,22 @@ By following steps to produce an accessible Word documents if your PDF originate
 Follow the requirements for making sure PDFs are accessible whenever they are used.
 
 
-#### Languages other than English
-A benefit of some types of alternative formats is support for including content in languages other than English. 
+#### Suppot other languages other than English
+A benefit of some types of alternative formats is support for including content in other languages in addition to the original.
+
+### Provide language translation support
+
+### Allow for assistive methods
+
+### Test, validate and verify
+Setup open source server or desktop application to monitor your site accessibility:
+- [Pa11y](https://pa11y.github.io)
+- [Koa11y](http://thejaredwilcurt.github.io/Koa11y/)
+
+![Koa11y project sticker](http://thejaredwilcurt.github.io/Koa11y/_img/koa11y-sticker.png)
+
+### Report, fix and review
+
 
 ---
 
