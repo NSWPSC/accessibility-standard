@@ -13,7 +13,7 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 1. [Provide documents in open formats]()
 1. [Provide alternative formats for multimedia]()
 1. [Provide language translation support]
-1. [Allow for assistive methods]
+1. [Allow for use of assisted digital support]
 1. [Test, validate and verify]
 1. [Report, fix and review]
 
@@ -380,7 +380,32 @@ A benefit of some types of alternative formats is support for including content 
 
 ### Provide language translation support
 
-### Allow for assistive methods
+### Allow for use of assisted digital support
+
+Assisted digital support is help for people who don’t use digital services on their own. 
+
+Consider all of your users when developing content and services, including people who may avoid or choose not to use the internet.
+
+You should:
+- design a digital service that works for as many users as possible
+- provide the best support for all users who need help using the digital service (this is called ‘[assisted digital support](https://www.gov.uk/service-manual/helping-people-to-use-your-service/assisted-digital-support-introduction)’)
+
+#### Defining your assisted digital users
+The following tools may help you get a better understanding of your [users who may need assisted digital support](https://www.gov.uk/service-manual/user-research/understanding-users-who-dont-use-digital-services):
+
+- the digital inclusion scale
+- assisted digital personas
+
+
+##### The digital inclusion scale
+The [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals) is a graph that helps you understand the digital skills and attitudes of your users. It describes 9 typical users based on their digital skills level, from those who can’t or won’t use the internet to experts with advanced digital skills.
+
+Point 7 on the scale represents users with ‘basic digital skill’ - this is the minimum ability that people need to have in order to use the internet effectively. Users with basic digital skill can manage their information, communicate online, carry out transactions, create things and problem solve.
+
+##### Assisted digital personas
+The UK's Government Digital Service (GDS) has created 8 personas which represent users who are likely to need assisted digital support. You can use these as a starting point to understanding what your users need and why, including their support needs.
+
+[Download the GDS assisted digital user personas document (ODT, 57kb)](https://assets.publishing.service.gov.uk/media/586cd69440f0b60e4c00010b/ad-personas-march-2015.odt).
 
 ### Test, validate and verify
 Setup open source server or desktop application to monitor your site accessibility:
