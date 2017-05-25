@@ -3,9 +3,6 @@
 The Digital Accessibility Standard is a set of rules about our approach digital accessibility. Following the rule means we can make sure that everyone is included when we provide information and services in digital formats. It helps us ensure that our products meet a wide range of people’s needs when designing, developing and delivering digital projects.
 
 ## The rules
-1. [Put people first](#put-people-first)
-1. [Design for everyone](#design-for-everyone)
-1. [Follow the Australian Government’s Digital Service Standard]()
 1. [Adhere to WCAG](#adhere-to-wcag)
 1. [Know the content types](#know-the-content-types)
 1. [Write in plain English](#write-in-plain-english)
@@ -17,11 +14,14 @@ The Digital Accessibility Standard is a set of rules about our approach digital 
 1. [Test, validate and verify]
 1. [Report, fix and review]
 
+## Principles
+1. [Put people first](#put-people-first)
+1. [Design for everyone](#design-for-everyone)
+1. [Follow the Australian Government’s Digital Service Standard]()
+
 ### Put people first
 
 Start with identifying user needs. If you don’t know what the user needs are, you won’t create the right thing. Do research, analyse data and talk to users. Don’t make assumptions. Have empathy for users and remember that what they ask for isn’t always what they need.
-
-When designing, developing and delivering digital services, follow the design principles in the [Australian Government’s Digital Service Standard](https://www.dta.gov.au/standard/design-principles/) and [the standards for usability from the United States Government](https://guidelines.usability.gov/).
 
 #### How do you know if you’re putting people first? 
 Key questions to ask
@@ -38,6 +38,8 @@ Accessible design is good design.
 
 Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the all people, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
 
+When designing, developing and delivering digital services, you should consider the [design principles in the Australian Government’s Digital Service Standard](https://www.dta.gov.au/standard/design-principles/) and [the standards for usability from the United States Government](https://guidelines.usability.gov/).
+
 ### Follow the Australian Government’s Digital Service Standard
 A digital service standard is a list of criteria that must be met when providing digital services. It covers both information and transactional services.
 
@@ -50,6 +52,7 @@ This standard draws upon, extends and implements elements of the following resou
 - [The United Kingdom Government Digital Service's Digital Service Standard](https://gov.uk/service-manual/service-standard)
 - [The NSW Department of Family and Communication Services' Digital Accessibility Standard](https://www.facs.nsw.gov.au/site_information/accessibility/digital-accessibility-standard)
 
+
 These standards are a great source of ideas and learning. They're actively being updated and so it's worth drawing upon them for their guidance on best practice in digital service design more generally.
 
 ### Adhere to WCAG
@@ -57,7 +60,7 @@ The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/w
 
 Australian governments must adhere – at a minimum – to WCAG 2.0 Level AA.
 
-But our goal is to take our digital accessibility beyond WCAG, in particular, by carefully considering the needs of people with cognitive disability.
+But our goal is to take our digital accessibility beyond the minimum we need to do.
 
 WCAG has four main principles:
 
